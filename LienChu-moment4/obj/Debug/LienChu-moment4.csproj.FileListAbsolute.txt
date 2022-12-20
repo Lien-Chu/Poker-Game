@@ -1,0 +1,16 @@
+C:\Users\liarn\source\repos\programmerning2\LienChu-moment4\LienChu-moment4\bin\Debug\LienChu-moment4.exe.config
+C:\Users\liarn\source\repos\programmerning2\LienChu-moment4\LienChu-moment4\bin\Debug\LienChu-moment4.exe
+C:\Users\liarn\source\repos\programmerning2\LienChu-moment4\LienChu-moment4\bin\Debug\LienChu-moment4.pdb
+C:\Users\liarn\source\repos\programmerning2\LienChu-moment4\LienChu-moment4\obj\Debug\LienChu-moment4.csproj.AssemblyReference.cache
+C:\Users\liarn\source\repos\programmerning2\LienChu-moment4\LienChu-moment4\obj\Debug\LienChu-moment4.csproj.SuggestedBindingRedirects.cache
+C:\Users\liarn\source\repos\programmerning2\LienChu-moment4\LienChu-moment4\obj\Debug\LienChu-moment4.csproj.CoreCompileInputs.cache
+C:\Users\liarn\source\repos\programmerning2\LienChu-moment4\LienChu-moment4\obj\Debug\LienChu-moment4.exe
+C:\Users\liarn\source\repos\programmerning2\LienChu-moment4\LienChu-moment4\obj\Debug\LienChu-moment4.pdb
+C:\Users\liarn\source\Programerning2\moment4\LienChu-moment4\bin\Debug\LienChu-moment4.exe.config
+C:\Users\liarn\source\Programerning2\moment4\LienChu-moment4\bin\Debug\LienChu-moment4.exe
+C:\Users\liarn\source\Programerning2\moment4\LienChu-moment4\bin\Debug\LienChu-moment4.pdb
+C:\Users\liarn\source\Programerning2\moment4\LienChu-moment4\obj\Debug\LienChu-moment4.csproj.AssemblyReference.cache
+C:\Users\liarn\source\Programerning2\moment4\LienChu-moment4\obj\Debug\LienChu-moment4.csproj.SuggestedBindingRedirects.cache
+C:\Users\liarn\source\Programerning2\moment4\LienChu-moment4\obj\Debug\LienChu-moment4.csproj.CoreCompileInputs.cache
+C:\Users\liarn\source\Programerning2\moment4\LienChu-moment4\obj\Debug\LienChu-moment4.exe
+C:\Users\liarn\source\Programerning2\moment4\LienChu-moment4\obj\Debug\LienChu-moment4.pdb
